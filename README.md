@@ -13,7 +13,7 @@ PNL/Machine Learning da linguagem Python, onde técnicas estatísticas de tais b
 serão aplicadas nos dados armazenados de forma a treinar a máquina para que ela possa
 futuramente identificar novos dados automaticamente se os mesmo são ofensivos.
 
-## Estrutua
+## Estrutura
 Root:
   -> ambiente (Pasta com ambientes para importação e instalação de dependecias)
   -> dados_scrap_converted (Pasta com dados capturados no webscrapping, trabalhos de transformações de csv, json, SQL, NoSQL)
