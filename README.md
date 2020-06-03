@@ -20,6 +20,10 @@ Root:
   - convert_toscv_ibm_autoai.ipynb (Arquivo para python notebook, que converte o arquivo json de dados do banco NoSQL - Mongo - para csv que pode ser colocado na plataforma auto ai da IBM que fornece para nós as melhores opções de técnicas e modelos de ML)
   - generate_results_model_training.ipynb (Arquivo para python notebook, onde ocorre todo o trabalho de treinamento, modelagem, visualizações, tratamentos de dados do trabalho)
   - scrap_g1_front_page_json.ipynb (Arquivo para python notebook, onde é feita toda a parte de webscrapping do site g1.com.br)
+  - arquivos .pkl são (Arquivos de modelagem)
+  - dataset_for_modeling.ipynb (Arquivo para python notebook, realiza o tratamento do definedcommentsdf.json)
+  - arquivos Tableau Workbook (Arquivos de workbook do Tableau, para visualização de dados)
+  - csv_file_merge.ipynb (Automação de junção de arquivos .csv)
 
 ## Necessário para replicação
 
